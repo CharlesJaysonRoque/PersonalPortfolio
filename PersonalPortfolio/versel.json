@@ -1,0 +1,10 @@
+{
+
+  "rewrites": [
+
+    { "source": "/(.*)", "destination": "PersonalPortfolio/App/HTML/index.html" }
+
+  ]
+
+}
+
